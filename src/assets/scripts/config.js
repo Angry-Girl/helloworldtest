@@ -1,1 +1,0 @@
-cc.config={gate_host:"app.joy78.com",gate_port:9030,http_url:"https://app.joy78.com:9001",update_url:"https://app.joy78.com:9001",assets_url:"https://app.joy78.com:8010",share_url:"https://app.joy78.com/share.html",game_id:"jungle",scene_id:"200000",res_version:"1.4.16",engine_version:"1.0.0",platform:"zjtd"},"undefined"==typeof config&&(window.config=cc.config);
